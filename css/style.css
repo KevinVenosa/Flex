@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    height: 300px;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+
+#item1{
+    margin: auto;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+#item2{
+    margin: auto;
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+}
+#item3{
+    margin: auto;
+    background-color: violet;
+    width: 100px;
+    height: 100px;
+}
+#item4{
+    margin: auto;
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+}
+
